@@ -1,2 +1,2 @@
 # GitHW
-HW11. Игра «Wild Ball». Часть 1
+HW12. Игра «Wild Ball». Часть 2
