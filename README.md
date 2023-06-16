@@ -1,4 +1,3 @@
 # GitHW
-HW26. CineMachine
-
+HW27. Постпроцессинг
 
