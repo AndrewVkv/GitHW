@@ -1,3 +1,3 @@
 # GitHW
-HW29. Игра «Crazy Run». Часть 1
+HW30. Игра «Crazy Run». Часть 2
 
